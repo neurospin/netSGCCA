@@ -1,0 +1,2 @@
+# netSGCCA
+netSGCCA in Python
